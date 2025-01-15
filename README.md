@@ -1,12 +1,12 @@
-# WildFireCatch (An AI Driven Wildfire Detection and Rapid Response and Alarm System through Satellite images)
+# WildFireAnalyzer (An AI Driven Wildfire Detection and Rapid Response and Alarm System through Satellite images)
 <img src="image.png" alt="ForestFire image" width="1000" height="500">
 
 
 ## Data set Link - https://www.kaggle.com/datasets/abdelghaniaaba/wildfire-prediction-dataset
 
-## Google colab - https://colab.research.google.com/drive/19VZK6VSiMGP5gxGrWsYkdciatFNyOpmD?usp=sharing
 
-Certainly! Here's an expanded section in the README focusing on the benefits, positive impacts, and how WildfireCatch can help:
+
+Certainly! Here's an expanded section in the README focusing on the benefits, positive impacts, and how WildfireAnalyzer can help:
 
 ---
 
@@ -18,8 +18,7 @@ Certainly! Here's an expanded section in the README focusing on the benefits, po
 3. [Technologies Used](#technologies-used)
 4. [Usage](#usage)
 5. [Benefits and Positive Impacts](#benefits-and-positive-impacts)
-6. [Contributing](#contributing)
-7. [Acknowledgements](#acknowledgements)
+6. [Acknowledgements](#acknowledgements)
 
 ## Project Overview
 
@@ -66,7 +65,7 @@ Implemented a real-time wildfire detection system using TensorFlow and Python fo
 
 ## Benefits and Positive Impacts
 
-WildfireCatch aims to mitigate the devastating effects of wildfires through proactive detection and effective response mechanisms. Here are some of the key benefits and positive impacts:
+WildfireAnalyzer aims to mitigate the devastating effects of wildfires through proactive detection and effective response mechanisms. Here are some of the key benefits and positive impacts:
 
 - **Early Detection**: Detects wildfires in their early stages, allowing authorities to respond swiftly and minimize damage.
 - **Accurate Prediction**: Predicts the spread of wildfires, enabling better resource allocation and evacuation planning.
@@ -75,23 +74,14 @@ WildfireCatch aims to mitigate the devastating effects of wildfires through proa
 - **Community Resilience**: Empowers communities with tools and information to protect lives and property during wildfire events.
 - **Technological Innovation**: Showcases the potential of AI and machine learning in addressing environmental challenges and enhancing public safety.
 
-WildfireCatch not only serves as a tool for emergency response but also promotes sustainable development practices by leveraging advanced technologies for environmental conservation and community resilience.
+WildfireAnalyzer not only serves as a tool for emergency response but also promotes sustainable development practices by leveraging advanced technologies for environmental conservation and community resilience.
 
-## Contributing
 
-We welcome contributions to WildfireCatch! If you would like to contribute, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature`)
-3. Make your changes
-4. Commit your changes (`git commit -m 'Add some feature'`)
-5. Push to the branch (`git push origin feature/your-feature`)
-6. Open a Pull Request
 
 ## Acknowledgements
 
 - Thanks to [Kaggle](https://www.kaggle.com/) for providing the datasets used in this project.
-- Special thanks to the developers of the libraries and frameworks used in this project.
+
 
 ---
 
